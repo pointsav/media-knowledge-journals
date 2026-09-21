@@ -496,7 +496,7 @@ Prepared by Woodfine Management Corp.
 
 ## How this paper was produced
 
-AI assistance was used in preparing and revising this paper.
+This paper is grounded in the preparing staff's own development and operating work, and in their standing engagement with the designers, software engineers, architects, engineers, and legal and accounting advisers the business works with. It was drafted and edited with AI assistance under editorial direction, and the analysis and conclusions are the author's own.
 
 ## Disclosures
 
@@ -539,5 +539,5 @@ relicensing it is a decision available to us at all; a project with many outside
 generally cannot change its licence without their agreement. No independent party has audited this
 software, verified these licence declarations, or reviewed these claims.
 
-Totebox Archive™, Totebox Orchestration™, PointSav Digital Systems™, and Woodfine Capital
+PointSav Digital Systems™, MCorp™, and Woodfine Capital
 Projects™ are trademarks of Woodfine Capital Projects Inc.

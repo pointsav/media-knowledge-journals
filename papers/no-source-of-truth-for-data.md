@@ -527,7 +527,7 @@ Prepared by Woodfine Management Corp.
 
 ## How this paper was produced
 
-AI assistance was used in preparing and revising this paper.
+This paper is grounded in the preparing staff's own development and operating work, and in their standing engagement with the designers, software engineers, architects, engineers, and legal and accounting advisers the business works with. It was drafted and edited with AI assistance under editorial direction, and the analysis and conclusions are the author's own.
 
 ## Disclosures
 
@@ -568,5 +568,5 @@ to a permissive licence sooner is an intended direction, already approved intern
 back by a remaining dependency on more restrictively licensed code elsewhere. No independent
 party has audited this software, reproduced these properties, or reviewed these claims.
 
-Totebox Archive™, Capability Geometry™, PointSav Digital Systems™, and Woodfine Capital
+Totebox Archive™, Capability Geometry™, PointSav Digital Systems™, MCorp™, and Woodfine Capital
 Projects™ are trademarks of Woodfine Capital Projects Inc.
