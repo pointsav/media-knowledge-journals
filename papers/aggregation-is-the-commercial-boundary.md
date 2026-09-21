@@ -539,5 +539,5 @@ relicensing it is a decision available to us at all; a project with many outside
 generally cannot change its licence without their agreement. No independent party has audited this
 software, verified these licence declarations, or reviewed these claims.
 
-PointSav Digital Systems™, MCorp™, and Woodfine Capital
+PointSav Digital Systems™ and Woodfine Capital
 Projects™ are trademarks of Woodfine Capital Projects Inc.

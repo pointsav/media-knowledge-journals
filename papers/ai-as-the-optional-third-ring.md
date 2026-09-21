@@ -526,5 +526,5 @@ verified these boundaries, or reviewed these claims; in particular, the claim th
 exists from the inference layer to the authoritative record has been checked by us and not by
 anyone else.
 
-Totebox Archive™, Capability Geometry™, PointSav Digital Systems™, MCorp™, and Woodfine Capital
+Totebox Archive™, Capability Geometry™, PointSav Digital Systems™, and Woodfine Capital
 Projects™ are trademarks of Woodfine Capital Projects Inc.

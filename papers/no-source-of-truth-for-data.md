@@ -568,5 +568,5 @@ to a permissive licence sooner is an intended direction, already approved intern
 back by a remaining dependency on more restrictively licensed code elsewhere. No independent
 party has audited this software, reproduced these properties, or reviewed these claims.
 
-Totebox Archive™, Capability Geometry™, PointSav Digital Systems™, MCorp™, and Woodfine Capital
+Totebox Archive™, Capability Geometry™, PointSav Digital Systems™, and Woodfine Capital
 Projects™ are trademarks of Woodfine Capital Projects Inc.

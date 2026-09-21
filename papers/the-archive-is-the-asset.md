@@ -528,5 +528,5 @@ in the platform. The building-record standard cited above is maintained by an in
 standards body and is publicly available through it. No independent party has audited this
 software, reproduced these properties, or reviewed these claims.
 
-Totebox Archive™, PointSav Digital Systems™, MCorp™, and Woodfine Capital Projects™ are trademarks of
+Totebox Archive™, PointSav Digital Systems™, and Woodfine Capital Projects™ are trademarks of
 Woodfine Capital Projects Inc.

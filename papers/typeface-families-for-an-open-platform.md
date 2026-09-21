@@ -505,5 +505,5 @@ platform's own published current-state description, not an inference drawn here.
 independent party has audited these typeface choices, verified these licence terms, or
 reviewed these claims.
 
-PointSav Digital Systems™ MCorp™, and Woodfine Capital Projects™ are trademarks of Woodfine
+PointSav Digital Systems™ and Woodfine Capital Projects™ are trademarks of Woodfine
 Capital Projects Inc.

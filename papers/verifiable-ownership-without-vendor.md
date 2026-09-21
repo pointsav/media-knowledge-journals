@@ -520,5 +520,5 @@ there. The code is open source and published in full, so a reader with access to
 each of these at the place it is defined. No independent party has audited this software,
 reviewed its cryptographic implementation, or verified these claims.
 
-PointSav Digital Systems™ MCorp™, and Woodfine Capital Projects™ are trademarks of Woodfine Capital
+PointSav Digital Systems™ and Woodfine Capital Projects™ are trademarks of Woodfine Capital
 Projects Inc.

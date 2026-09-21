@@ -604,5 +604,5 @@ standards cited above are maintained by international bodies and are available f
 purchase through them. No independent party has audited this software, reproduced these
 properties, or reviewed these claims.
 
-Totebox Archive™, PointSav Digital Systems™, MCorp™, and Woodfine Capital Projects™ are trademarks of
+Totebox Archive™, PointSav Digital Systems™, and Woodfine Capital Projects™ are trademarks of
 Woodfine Capital Projects Inc.

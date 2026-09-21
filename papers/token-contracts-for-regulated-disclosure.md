@@ -590,5 +590,5 @@ families' real production stylesheets are referenced from the token entries that
 them. No independent party has audited this token set, reviewed these drafting conventions,
 or verified these claims.
 
-PointSav Digital Systems™ MCorp™, and Woodfine Capital Projects™ are trademarks of Woodfine
+PointSav Digital Systems™ and Woodfine Capital Projects™ are trademarks of Woodfine
 Capital Projects Inc.

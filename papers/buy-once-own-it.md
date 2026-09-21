@@ -534,5 +534,5 @@ identifiers maintained by the Linux Foundation [spdx-license-list]. No independe
 audited this software, reviewed these claims, or verified the absence of enforcement code
 described above.
 
-PointSav Digital Systems™ MCorp™, and Woodfine Capital Projects™ are trademarks of Woodfine Capital
+PointSav Digital Systems™ and Woodfine Capital Projects™ are trademarks of Woodfine Capital
 Projects Inc.

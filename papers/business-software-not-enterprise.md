@@ -508,5 +508,5 @@ confirm the gap admitted in Section 6 there rather than taking our word for it. 
 own code is open source and published in full. No independent party has audited this software,
 surveyed this market segment on our behalf, or reviewed these claims.
 
-PointSav Digital Systems™, MCorp™, and Woodfine Capital Projects™ are trademarks of
+PointSav Digital Systems™ and Woodfine Capital Projects™ are trademarks of
 Woodfine Capital Projects Inc.

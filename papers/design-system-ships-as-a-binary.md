@@ -544,5 +544,5 @@ state. The two stale licence statements reported in Section 5 are in live publis
 articles and can be compared against the repository notice directly. No independent party
 has audited this software, verified these licence declarations, or reviewed these claims.
 
-PointSav Digital Systems™ MCorp™, and Woodfine Capital Projects™ are trademarks of Woodfine
+PointSav Digital Systems™ and Woodfine Capital Projects™ are trademarks of Woodfine
 Capital Projects Inc.
