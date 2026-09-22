@@ -58,6 +58,10 @@ keywords:
   - vendor independence
 ---
 
+# A Canonical Order for Decisions, None for Data
+
+*How self-contained archives coordinate with one another without any central database at all*
+
 > This paper is provided for engineering, operational, and research purposes and does not
 > constitute investment advice or a solicitation to invest in any Woodfine direct-hold
 > solution. Statements marked "planned," "intended," "targeted," "may," or "expected" are

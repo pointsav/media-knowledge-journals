@@ -54,6 +54,10 @@ keywords:
   - vendor independence
 ---
 
+# A Design System That Ships as a Binary, Not a Hosted Service
+
+*Open data under a permissive licence, and a single installable program the customer runs on their own machine*
+
 > This paper is provided for engineering, operational, and research purposes and does not
 > constitute investment advice or a solicitation to invest in any Woodfine direct-hold
 > solution. Statements marked "planned," "intended," "targeted," "may," or "expected" are

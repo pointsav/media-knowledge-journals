@@ -53,6 +53,10 @@ keywords:
   - perpetual licences
 ---
 
+# Ownership You Can Prove Without the Seller
+
+*A sealed licence, a payment recorded in public, and no activation server that has to outlive the company*
+
 > This paper is provided for engineering, operational, and research purposes and does not
 > constitute investment advice or a solicitation to invest in any Woodfine direct-hold
 > solution. Statements marked "planned," "intended," "targeted," "may," or "expected" are

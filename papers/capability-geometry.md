@@ -53,6 +53,10 @@ keywords:
   - ownership transfer
 ---
 
+# Authority That Is Held, Not Looked Up
+
+*Capability Geometry: a customer-held key, a public checkable record, and paired machines in place of a vendor's account database*
+
 > This paper is provided for engineering, operational, and research purposes and does not
 > constitute investment advice or a solicitation to invest in any Woodfine direct-hold
 > solution. Statements marked "planned," "intended," "targeted," "may," or "expected" are

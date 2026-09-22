@@ -56,6 +56,10 @@ keywords:
   - records handover
 ---
 
+# The Archive Is the Asset
+
+*Toward bootable, freely transferable records built so a migration project never has to start*
+
 > This paper is provided for engineering, operational, and research purposes and does not
 > constitute investment advice or a solicitation to invest in any Woodfine direct-hold
 > solution. Statements marked "planned," "intended," "targeted," "may," or "expected" are

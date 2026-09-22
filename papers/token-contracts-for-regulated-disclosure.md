@@ -54,6 +54,10 @@ keywords:
   - machine-readable documents
 ---
 
+# The Shape of a Regulated Document Is Data
+
+*Treating a filing's sections, numbering, and cross-reference grammar as versioned, governed rules rather than a per-document formatting exercise*
+
 > This paper is provided for engineering, operational, and research purposes and does not
 > constitute investment advice or a solicitation to invest in any Woodfine direct-hold
 > solution. Statements marked "planned," "intended," "targeted," "may," or "expected" are

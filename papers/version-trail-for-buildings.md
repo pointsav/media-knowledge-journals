@@ -58,6 +58,10 @@ keywords:
   - equipment accountability
 ---
 
+# A Version Trail for a Building's Equipment
+
+*Treating equipment history as a record accountable to a person, not a stream of readings*
+
 > This paper is provided for engineering, operational, and research purposes and does not
 > constitute investment advice or a solicitation to invest in any Woodfine direct-hold
 > solution. Statements marked "planned," "intended," "targeted," "may," or "expected" are

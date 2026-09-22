@@ -60,6 +60,10 @@ keywords:
   - multi-archive aggregation
 ---
 
+# A Licence Boundary Drawn by Architecture, Not by Features
+
+*One archive runs free; the layer that asks a single question of many archives at once is the part that costs money*
+
 > This paper is provided for engineering, operational, and research purposes and does not
 > constitute investment advice or a solicitation to invest in any Woodfine direct-hold
 > solution. Statements marked "planned," "intended," "targeted," "may," or "expected" are

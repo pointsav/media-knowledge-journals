@@ -59,6 +59,10 @@ keywords:
   - licence enforcement
 ---
 
+# Software That Is Sold, Not Rented
+
+*Full charge up front, a long stable release cycle, and no switch the seller can throw on a copy already running*
+
 > This paper is provided for engineering, operational, and research purposes and does not
 > constitute investment advice or a solicitation to invest in any Woodfine direct-hold
 > solution. Statements marked "planned," "intended," "targeted," "may," or "expected" are

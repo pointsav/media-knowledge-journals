@@ -55,6 +55,10 @@ keywords:
   - software positioning
 ---
 
+# Software for a Reporting Issuer, Not for a Multinational
+
+*Comparable operational complexity, incomparable organisational scale — and why that distinction, not company size, is the design brief*
+
 > This paper is provided for engineering, operational, and research purposes and does not
 > constitute investment advice or a solicitation to invest in any Woodfine direct-hold
 > solution. Statements marked "planned," "intended," "targeted," "may," or "expected" are

@@ -54,6 +54,10 @@ keywords:
   - document longevity
 ---
 
+# Building Toward Type Nobody Can Take Back
+
+*Why an open platform works toward typographic independence, and how far that work has actually got*
+
 > This paper is provided for engineering, operational, and research purposes and does not
 > constitute investment advice or a solicitation to invest in any Woodfine direct-hold
 > solution. Statements marked "planned," "intended," "targeted," "may," or "expected" are
